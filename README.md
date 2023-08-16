@@ -32,7 +32,8 @@ npm install
 ```
 
 then run the server environment by creating the .env file in server folder and adding the  
-MONGODB_CONNECTION_URL= "{Your MONGO_DB URL}"
+
+MONGODB_CONNECTION_URL= "{Your MONGO_DB URL}"  
 Open new terminal
 ```bash
 cd server
